@@ -1,0 +1,29 @@
+.container-custom{
+	width: 94%;
+}
+
+.custom-col-five{
+	width: 20%;
+	float: left;
+
+}
+
+.m-name{
+	height: 200px;
+}
+
+.m-dob{
+	height: 200px;
+}
+
+.m-phone{
+	height: 200px;
+}
+
+.m-email{
+	height: 200px;
+}
+
+.m-web{
+	height: 200px;
+}
