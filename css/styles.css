@@ -1,3 +1,66 @@
+/*
+=================================
+About Theme
+=================================
+
+Theme Name: Shagor
+Theme URI: www.shagortheme.me
+Author: Shagor Theme
+Author URI: http://shagortheme.com/
+Description: Shagor OnePage HTML5 Template by Jewel Theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: html, themplate, polmo, jwtheme, business
+
+=================================
+
+
+=================================
+Table of contents
+=================================
+01. Google Fonts
+02. General Styles
+03. Navigation styles
+04. Header styles
+05. About me section styles
+06. Service section styles
+07. Achievement section styles
+08. Qualification section styles
+09. Skill Section Styles
+10. My Work Section Styles
+11. Working Proccess Section Styles
+12. Pricing Section Styles
+13. Client Section Styles
+14. Blog Section Styles
+15. Comtact Me Styles
+16. Footer styles
+
+
+================================
+
+
+
+================================
+01. Google Fonts 
+================================
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,300);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300italic,700,700italic);
+
+/*
+
+Google Fonts End 
+================================
+
+
+================================
+02. General Styles
+================================
+*/
+
 .container-custom{
 	width: 94%;
 }
@@ -7,6 +70,7 @@
 	float: left;
 
 }
+
 
 .m-name{
 	height: 200px;
@@ -56,3 +120,43 @@
   padding: 0px;
   margin: 0px;
 }
+
+
+
+/*
+
+General Styles End 
+================================
+
+
+================================
+03. Navigation Styles
+================================
+*/
+
+.default-toggle-btn{
+  height: 100px;
+}
+
+
+.default-toggle-btn .navbar-toggle{
+  display: block;
+}
+
+.default-toggle-btn .navbar-toggle {
+  border: 1px solid #323232;
+  float: left;
+}
+
+.default-toggle-btn .navbar-toggle span{
+  background-color: #323232;
+}
+.navbar-nav{
+  text-align: center;
+}
+.navbar-nav li{
+  float: 0;
+}
+
+
+thek s hkd 
